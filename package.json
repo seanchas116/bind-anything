@@ -1,0 +1,22 @@
+{
+  "name": "bind-anything",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanchas116/bind-anything.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanchas116/bind-anything/issues"
+  },
+  "homepage": "https://github.com/seanchas116/bind-anything#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
